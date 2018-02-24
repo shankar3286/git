@@ -1,0 +1,22 @@
+#surefire
+#Sat Feb 24 13:07:24 UTC 2018
+testClassesDirectory=/home/skarigoudar87/library/target/test-classes
+forkMode=once
+useManifestOnlyJar=true
+classPathUrl.1=/home/skarigoudar87/library/target/classes
+classPathUrl.0=/home/skarigoudar87/library/target/test-classes
+reportsDirectory=/home/skarigoudar87/library/target/surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/home/skarigoudar87/library/src/test/java
+surefireClassPathUrl.1=/home/skarigoudar87/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+surefireClassPathUrl.0=/home/skarigoudar87/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
